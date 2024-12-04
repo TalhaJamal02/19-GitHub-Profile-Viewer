@@ -86,7 +86,7 @@ function GithubProfileViewer() {
   };
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-full bg-gray-200 py-8">
+    <div className="flex flex-col items-center justify-center min-h-screen bg-gray-200 py-8">
       <Card className="w-full max-w-3xl p-6 space-y-4 shadow-lg rounded-lg bg-white">
         <CardHeader className="text-center">
           <CardTitle className="text-3xl font-bold mb-2">
